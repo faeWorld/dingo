@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966653124808",
+    "project_id": "dingo-163df",
+    "storage_bucket": "dingo-163df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966653124808:android:baf5084dbdbeeffe5545fd",
+        "android_client_info": {
+          "package_name": "com.dingo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGouJ3VgYVzQGgz9hzU1FBYuYcdCEo3z8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
